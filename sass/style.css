@@ -33,6 +33,9 @@ body {
   align-items: center;
   height: 41px;
 }
+.container header .box-group nav .box i {
+  display: none;
+}
 .container header .box-group nav .box .box-2 ul {
   display: flex;
   gap: 36px;
@@ -467,6 +470,7 @@ body {
     display: none;
   }
   .container header .box-group nav .box .box-2 i {
+    display: block;
     font-size: 25px;
   }
   .container header .box-group .tittle {

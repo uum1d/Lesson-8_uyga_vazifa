@@ -35,6 +35,9 @@ body {
                         align-items: center;
                         height: 41px;
                     }
+                    i{
+                        display:none;
+                    }
 
                     .box-2 ul {
                         display: flex;
@@ -624,6 +627,7 @@ body {
                                 display: none;
                             }
                             i{
+                                display: block;
                                font-size: 25px;
                             }
                         }
